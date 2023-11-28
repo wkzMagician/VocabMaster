@@ -1,0 +1,386 @@
+{
+  "prefix_trie": {
+    "word": null,
+    "translation": null,
+    "examples": [],
+    "search_count": 0,
+    "children": {
+      "e": {
+        "word": null,
+        "translation": null,
+        "examples": [],
+        "search_count": 0,
+        "children": {
+          "x": {
+            "word": null,
+            "translation": null,
+            "examples": [],
+            "search_count": 0,
+            "children": {
+              "a": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "m": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "p": {
+                        "word": null,
+                        "translation": null,
+                        "examples": [],
+                        "search_count": 0,
+                        "children": {
+                          "l": {
+                            "word": null,
+                            "translation": null,
+                            "examples": [],
+                            "search_count": 0,
+                            "children": {
+                              "e": {
+                                "word": "example",
+                                "translation": "\u4f8b\u5b50",
+                                "examples": [
+                                  "This is an example"
+                                ],
+                                "search_count": 0,
+                                "children": {}
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "u": {
+        "word": null,
+        "translation": null,
+        "examples": [],
+        "search_count": 0,
+        "children": {
+          "l": {
+            "word": null,
+            "translation": null,
+            "examples": [],
+            "search_count": 0,
+            "children": {
+              "t": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "r": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "a": {
+                        "word": "ultra",
+                        "translation": "\u8fc7\u5ea6\u7684",
+                        "examples": [
+                          "ultra-processed food"
+                        ],
+                        "search_count": 0,
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "n": {
+        "word": null,
+        "translation": null,
+        "examples": [],
+        "search_count": 0,
+        "children": {
+          "u": {
+            "word": null,
+            "translation": null,
+            "examples": [],
+            "search_count": 0,
+            "children": {
+              "d": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "g": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "e": {
+                        "word": "nudge",
+                        "translation": "\u8f7b\u63a8",
+                        "examples": [
+                          "The children were giggling and nudging each other. "
+                        ],
+                        "search_count": 0,
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "s": {
+        "word": null,
+        "translation": null,
+        "examples": [],
+        "search_count": 0,
+        "children": {
+          "p": {
+            "word": null,
+            "translation": null,
+            "examples": [],
+            "search_count": 0,
+            "children": {
+              "l": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "u": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "r": {
+                        "word": null,
+                        "translation": null,
+                        "examples": [],
+                        "search_count": 0,
+                        "children": {
+                          "g": {
+                            "word": null,
+                            "translation": null,
+                            "examples": [],
+                            "search_count": 0,
+                            "children": {
+                              "e": {
+                                "word": "splurge",
+                                "translation": "\u6325\u970d",
+                                "examples": [
+                                  "I feel like splurge on a new dress."
+                                ],
+                                "search_count": 0,
+                                "children": {}
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "suffix_trie": {
+    "word": null,
+    "translation": null,
+    "examples": [],
+    "search_count": 0,
+    "children": {
+      "e": {
+        "word": null,
+        "translation": null,
+        "examples": [],
+        "search_count": 0,
+        "children": {
+          "l": {
+            "word": null,
+            "translation": null,
+            "examples": [],
+            "search_count": 0,
+            "children": {
+              "p": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "m": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "a": {
+                        "word": null,
+                        "translation": null,
+                        "examples": [],
+                        "search_count": 0,
+                        "children": {
+                          "x": {
+                            "word": null,
+                            "translation": null,
+                            "examples": [],
+                            "search_count": 0,
+                            "children": {
+                              "e": {
+                                "word": "elpmaxe",
+                                "translation": "\u4f8b\u5b50",
+                                "examples": [
+                                  "This is an example"
+                                ],
+                                "search_count": 0,
+                                "children": {}
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "g": {
+            "word": null,
+            "translation": null,
+            "examples": [],
+            "search_count": 0,
+            "children": {
+              "d": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "u": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "n": {
+                        "word": "egdun",
+                        "translation": "\u8f7b\u63a8",
+                        "examples": [
+                          "The children were giggling and nudging each other. "
+                        ],
+                        "search_count": 0,
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              },
+              "r": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "u": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "l": {
+                        "word": null,
+                        "translation": null,
+                        "examples": [],
+                        "search_count": 0,
+                        "children": {
+                          "p": {
+                            "word": null,
+                            "translation": null,
+                            "examples": [],
+                            "search_count": 0,
+                            "children": {
+                              "s": {
+                                "word": "egrulps",
+                                "translation": "\u6325\u970d",
+                                "examples": [
+                                  "I feel like splurge on a new dress."
+                                ],
+                                "search_count": 0,
+                                "children": {}
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "a": {
+        "word": null,
+        "translation": null,
+        "examples": [],
+        "search_count": 0,
+        "children": {
+          "r": {
+            "word": null,
+            "translation": null,
+            "examples": [],
+            "search_count": 0,
+            "children": {
+              "t": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "l": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "u": {
+                        "word": "artlu",
+                        "translation": "\u8fc7\u5ea6\u7684",
+                        "examples": [
+                          "ultra-processed food"
+                        ],
+                        "search_count": 0,
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
