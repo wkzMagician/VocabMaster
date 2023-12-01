@@ -15,6 +15,8 @@ from vocabulary import VocabularyTrie, TrieNode
 
 class Menu:
     def __init__(self):
+        self.add_word_mode = False
+
         print("欢迎使用背单词小程序！")
         print("正在加载词库...")
         self.vocabulary = VocabularyTrie("vocabulary.json")
@@ -96,12 +98,22 @@ class Menu:
         command = strings[0]
         args = strings[1:]
         # handle command
+        if self.add_word_mode:
+            if command == "quit" or command == "q":
+                self.add_word_mode = False
+                return
+            else:
+                self.add_word(command)
+                return
+        
         if command == "add" or command == "a":
             if len(args) > 1:
                 print("输入参数过多！")
                 return
             if len(args) == 0:
-                args.append(input("请输入单词："))
+                # 进入添加单词模式
+                self.add_word_mode = True
+                return
             word: str = args[0]
             if not word.isalpha():
                 print("输入的单词不合法！")
@@ -153,15 +165,23 @@ class Menu:
         # 程序主循环
         while True:
             # 不换行输出, 打印一个类似bash的提示符
-            print(">>>", end = "")
+            if self.add_word_mode:
+                print("(a)>>>", end = "")
+            else:
+                print(">>>", end = "")
             
             command: str = input()
             command = command.strip()
+
+            if self.add_word_mode:
+                self.parse_command(command)
+                continue
 
             if command == "quit" or command == "q":
                 self.vocabulary.save_to_json('vocabulary.json')
                 break
             elif command == "help" or command == "h":
+                print("add/a                        进入添加单词模式")
                 print("add/a [WORD]                 添加单词")
                 print("search/s [WORD]:             查询单词")
                 print("print/p [PREFIX] [SUFFIX]    打印单词, 可以指定前缀和后缀, 只有一个输入表示前缀, .表示任意字符")

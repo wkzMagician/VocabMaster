@@ -57,6 +57,48 @@
                     }
                   }
                 }
+              },
+              "p": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "l": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "o": {
+                        "word": null,
+                        "translation": null,
+                        "examples": [],
+                        "search_count": 0,
+                        "children": {
+                          "i": {
+                            "word": null,
+                            "translation": null,
+                            "examples": [],
+                            "search_count": 0,
+                            "children": {
+                              "t": {
+                                "word": "exploit",
+                                "translation": "\u5229\u7528",
+                                "examples": [
+                                  "We need to make sure that we exploit our resources as fully as possible.",
+                                  "exploit technique \u6f0f\u6d1e\u5229\u7528\u6280\u672f"
+                                ],
+                                "search_count": 1,
+                                "children": {}
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
               }
             }
           }
@@ -200,6 +242,492 @@
             }
           }
         }
+      },
+      "a": {
+        "word": null,
+        "translation": null,
+        "examples": [],
+        "search_count": 0,
+        "children": {
+          "c": {
+            "word": null,
+            "translation": null,
+            "examples": [],
+            "search_count": 0,
+            "children": {
+              "r": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "o": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "n": {
+                        "word": null,
+                        "translation": null,
+                        "examples": [],
+                        "search_count": 0,
+                        "children": {
+                          "y": {
+                            "word": null,
+                            "translation": null,
+                            "examples": [],
+                            "search_count": 0,
+                            "children": {
+                              "m": {
+                                "word": "acronym",
+                                "translation": "\u7f29\u5199\u8bcd",
+                                "examples": [
+                                  "BASIC\u2014the name is an acronym for Beginner\u2019s All-purpose Symbolic Instruction Code\u3002"
+                                ],
+                                "search_count": 1,
+                                "children": {}
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "i": {
+        "word": null,
+        "translation": null,
+        "examples": [],
+        "search_count": 0,
+        "children": {
+          "m": {
+            "word": null,
+            "translation": null,
+            "examples": [],
+            "search_count": 0,
+            "children": {
+              "p": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "o": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "s": {
+                        "word": null,
+                        "translation": null,
+                        "examples": [],
+                        "search_count": 0,
+                        "children": {
+                          "e": {
+                            "word": "impose",
+                            "translation": "\u5f3a\u52a0\uff1b\u5f81\u6536",
+                            "examples": [
+                              "self-imposed exile \u81ea\u6211\u653e\u9010",
+                              "Very high taxes have recently been imposed on cigarettes.",
+                              "I don't want them to impose their religious beliefs on my children."
+                            ],
+                            "search_count": 0,
+                            "children": {}
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "d": {
+        "word": null,
+        "translation": null,
+        "examples": [],
+        "search_count": 0,
+        "children": {
+          "i": {
+            "word": null,
+            "translation": null,
+            "examples": [],
+            "search_count": 0,
+            "children": {
+              "c": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "t": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "a": {
+                        "word": null,
+                        "translation": null,
+                        "examples": [],
+                        "search_count": 0,
+                        "children": {
+                          "t": {
+                            "word": null,
+                            "translation": null,
+                            "examples": [],
+                            "search_count": 0,
+                            "children": {
+                              "o": {
+                                "word": null,
+                                "translation": null,
+                                "examples": [],
+                                "search_count": 0,
+                                "children": {
+                                  "r": {
+                                    "word": "dictator",
+                                    "translation": "\u72ec\u88c1\u8005",
+                                    "examples": [
+                                      "My boss is kind of a dictator."
+                                    ],
+                                    "search_count": 0,
+                                    "children": {}
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "s": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "c": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "e": {
+                        "word": null,
+                        "translation": null,
+                        "examples": [],
+                        "search_count": 0,
+                        "children": {
+                          "r": {
+                            "word": null,
+                            "translation": null,
+                            "examples": [],
+                            "search_count": 0,
+                            "children": {
+                              "n": {
+                                "word": "discern",
+                                "translation": "\u8fa8\u522b",
+                                "examples": [
+                                  "I could just discern a figure in the darkness."
+                                ],
+                                "search_count": 0,
+                                "children": {}
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "r": {
+        "word": null,
+        "translation": null,
+        "examples": [],
+        "search_count": 0,
+        "children": {
+          "e": {
+            "word": null,
+            "translation": null,
+            "examples": [],
+            "search_count": 0,
+            "children": {
+              "i": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "g": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "n": {
+                        "word": "reign",
+                        "translation": "\u7edf\u6cbb",
+                        "examples": [
+                          "The dictator whose reign it portrayed had given way to an even more cruel and oppressive one.",
+                          "Love reigned supreme in her heart."
+                        ],
+                        "search_count": 1,
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "i": {
+            "word": null,
+            "translation": null,
+            "examples": [],
+            "search_count": 0,
+            "children": {
+              "d": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "d": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "l": {
+                        "word": null,
+                        "translation": null,
+                        "examples": [],
+                        "search_count": 0,
+                        "children": {
+                          "e": {
+                            "word": "riddle",
+                            "translation": "\u8ff7\uff1b\u4f7f\u5e03\u6ee1\u6d1e\u5b54",
+                            "examples": [
+                              "When he finally self-published the novel in Mexico in 1946, it was riddled with typographical errors.",
+                              "Scientists may have solved the riddle of Saturn's rings."
+                            ],
+                            "search_count": 0,
+                            "children": {}
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "p": {
+        "word": null,
+        "translation": null,
+        "examples": [],
+        "search_count": 0,
+        "children": {
+          "o": {
+            "word": null,
+            "translation": null,
+            "examples": [],
+            "search_count": 0,
+            "children": {
+              "r": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "t": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "r": {
+                        "word": null,
+                        "translation": null,
+                        "examples": [],
+                        "search_count": 0,
+                        "children": {
+                          "a": {
+                            "word": null,
+                            "translation": null,
+                            "examples": [],
+                            "search_count": 0,
+                            "children": {
+                              "y": {
+                                "word": "portray",
+                                "translation": "\u63cf\u7ed8",
+                                "examples": [
+                                  "The writer portrays life in a small village at the turn of the century."
+                                ],
+                                "search_count": 0,
+                                "children": {}
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "r": {
+            "word": null,
+            "translation": null,
+            "examples": [],
+            "search_count": 0,
+            "children": {
+              "o": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "v": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "o": {
+                        "word": null,
+                        "translation": null,
+                        "examples": [],
+                        "search_count": 0,
+                        "children": {
+                          "k": {
+                            "word": null,
+                            "translation": null,
+                            "examples": [],
+                            "search_count": 0,
+                            "children": {
+                              "e": {
+                                "word": "provoke",
+                                "translation": "\u5f15\u53d1\uff08\u8d1f\u9762\u6548\u5e94\uff09\uff1b\u6fc0\u6012",
+                                "examples": [
+                                  "The prospect of increased prices has already provoked an outcry.",
+                                  "I was provoked into the argument."
+                                ],
+                                "search_count": 0,
+                                "children": {}
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "o": {
+        "word": null,
+        "translation": null,
+        "examples": [],
+        "search_count": 0,
+        "children": {
+          "p": {
+            "word": null,
+            "translation": null,
+            "examples": [],
+            "search_count": 0,
+            "children": {
+              "p": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "r": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "e": {
+                        "word": null,
+                        "translation": null,
+                        "examples": [],
+                        "search_count": 0,
+                        "children": {
+                          "s": {
+                            "word": null,
+                            "translation": null,
+                            "examples": [],
+                            "search_count": 0,
+                            "children": {
+                              "s": {
+                                "word": null,
+                                "translation": null,
+                                "examples": [],
+                                "search_count": 0,
+                                "children": {
+                                  "i": {
+                                    "word": null,
+                                    "translation": null,
+                                    "examples": [],
+                                    "search_count": 0,
+                                    "children": {
+                                      "v": {
+                                        "word": null,
+                                        "translation": null,
+                                        "examples": [],
+                                        "search_count": 0,
+                                        "children": {
+                                          "e": {
+                                            "word": "oppressive",
+                                            "translation": "\u538b\u8feb\u7684",
+                                            "examples": [
+                                              "an oppressive silence \u4ee4\u4eba\u96be\u8010\u7684\u9759\u5bc2"
+                                            ],
+                                            "search_count": 0,
+                                            "children": {}
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -255,6 +783,40 @@
                                 "children": {}
                               }
                             }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "d": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "d": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "i": {
+                        "word": null,
+                        "translation": null,
+                        "examples": [],
+                        "search_count": 0,
+                        "children": {
+                          "r": {
+                            "word": "elddir",
+                            "translation": "\u8ff7\uff1b\u4f7f\u5e03\u6ee1\u6d1e\u5b54",
+                            "examples": [
+                              "When he finally self-published the novel in Mexico in 1946, it was riddled with typographical errors.",
+                              "Scientists may have solved the riddle of Saturn's rings."
+                            ],
+                            "search_count": 0,
+                            "children": {}
                           }
                         }
                       }
@@ -337,6 +899,172 @@
                 }
               }
             }
+          },
+          "s": {
+            "word": null,
+            "translation": null,
+            "examples": [],
+            "search_count": 0,
+            "children": {
+              "o": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "p": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "m": {
+                        "word": null,
+                        "translation": null,
+                        "examples": [],
+                        "search_count": 0,
+                        "children": {
+                          "i": {
+                            "word": "esopmi",
+                            "translation": "\u5f3a\u52a0\uff1b\u5f81\u6536",
+                            "examples": [
+                              "self-imposed exile \u81ea\u6211\u653e\u9010",
+                              "Very high taxes have recently been imposed on cigarettes.",
+                              "I don't want them to impose their religious beliefs on my children."
+                            ],
+                            "search_count": 0,
+                            "children": {}
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "v": {
+            "word": null,
+            "translation": null,
+            "examples": [],
+            "search_count": 0,
+            "children": {
+              "i": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "s": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "s": {
+                        "word": null,
+                        "translation": null,
+                        "examples": [],
+                        "search_count": 0,
+                        "children": {
+                          "e": {
+                            "word": null,
+                            "translation": null,
+                            "examples": [],
+                            "search_count": 0,
+                            "children": {
+                              "r": {
+                                "word": null,
+                                "translation": null,
+                                "examples": [],
+                                "search_count": 0,
+                                "children": {
+                                  "p": {
+                                    "word": null,
+                                    "translation": null,
+                                    "examples": [],
+                                    "search_count": 0,
+                                    "children": {
+                                      "p": {
+                                        "word": null,
+                                        "translation": null,
+                                        "examples": [],
+                                        "search_count": 0,
+                                        "children": {
+                                          "o": {
+                                            "word": "evisserppo",
+                                            "translation": "\u538b\u8feb\u7684",
+                                            "examples": [
+                                              "an oppressive silence \u4ee4\u4eba\u96be\u8010\u7684\u9759\u5bc2"
+                                            ],
+                                            "search_count": 0,
+                                            "children": {}
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "k": {
+            "word": null,
+            "translation": null,
+            "examples": [],
+            "search_count": 0,
+            "children": {
+              "o": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "v": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "o": {
+                        "word": null,
+                        "translation": null,
+                        "examples": [],
+                        "search_count": 0,
+                        "children": {
+                          "r": {
+                            "word": null,
+                            "translation": null,
+                            "examples": [],
+                            "search_count": 0,
+                            "children": {
+                              "p": {
+                                "word": "ekovorp",
+                                "translation": "\u5f15\u53d1\uff08\u8d1f\u9762\u6548\u5e94\uff09\uff1b\u6fc0\u6012",
+                                "examples": [
+                                  "The prospect of increased prices has already provoked an outcry.",
+                                  "I was provoked into the argument."
+                                ],
+                                "search_count": 0,
+                                "children": {}
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
           }
         }
       },
@@ -372,6 +1100,334 @@
                         ],
                         "search_count": 0,
                         "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "m": {
+        "word": null,
+        "translation": null,
+        "examples": [],
+        "search_count": 0,
+        "children": {
+          "y": {
+            "word": null,
+            "translation": null,
+            "examples": [],
+            "search_count": 0,
+            "children": {
+              "n": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "o": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "r": {
+                        "word": null,
+                        "translation": null,
+                        "examples": [],
+                        "search_count": 0,
+                        "children": {
+                          "c": {
+                            "word": null,
+                            "translation": null,
+                            "examples": [],
+                            "search_count": 0,
+                            "children": {
+                              "a": {
+                                "word": "mynorca",
+                                "translation": "\u7f29\u5199\u8bcd",
+                                "examples": [
+                                  "BASIC\u2014the name is an acronym for Beginner\u2019s All-purpose Symbolic Instruction Code\u3002"
+                                ],
+                                "search_count": 0,
+                                "children": {}
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "t": {
+        "word": null,
+        "translation": null,
+        "examples": [],
+        "search_count": 0,
+        "children": {
+          "i": {
+            "word": null,
+            "translation": null,
+            "examples": [],
+            "search_count": 0,
+            "children": {
+              "o": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "l": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "p": {
+                        "word": null,
+                        "translation": null,
+                        "examples": [],
+                        "search_count": 0,
+                        "children": {
+                          "x": {
+                            "word": null,
+                            "translation": null,
+                            "examples": [],
+                            "search_count": 0,
+                            "children": {
+                              "e": {
+                                "word": "tiolpxe",
+                                "translation": "\u5229\u7528",
+                                "examples": [
+                                  "We need to make sure that we exploit our resources as fully as possible.",
+                                  "exploit technique \u6f0f\u6d1e\u5229\u7528\u6280\u672f"
+                                ],
+                                "search_count": 0,
+                                "children": {}
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "r": {
+        "word": null,
+        "translation": null,
+        "examples": [],
+        "search_count": 0,
+        "children": {
+          "o": {
+            "word": null,
+            "translation": null,
+            "examples": [],
+            "search_count": 0,
+            "children": {
+              "t": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "a": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "t": {
+                        "word": null,
+                        "translation": null,
+                        "examples": [],
+                        "search_count": 0,
+                        "children": {
+                          "c": {
+                            "word": null,
+                            "translation": null,
+                            "examples": [],
+                            "search_count": 0,
+                            "children": {
+                              "i": {
+                                "word": null,
+                                "translation": null,
+                                "examples": [],
+                                "search_count": 0,
+                                "children": {
+                                  "d": {
+                                    "word": "rotatcid",
+                                    "translation": "\u72ec\u88c1\u8005",
+                                    "examples": [
+                                      "My boss is kind of a dictator."
+                                    ],
+                                    "search_count": 0,
+                                    "children": {}
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "n": {
+        "word": null,
+        "translation": null,
+        "examples": [],
+        "search_count": 0,
+        "children": {
+          "g": {
+            "word": null,
+            "translation": null,
+            "examples": [],
+            "search_count": 0,
+            "children": {
+              "i": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "e": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "r": {
+                        "word": "ngier",
+                        "translation": "\u7edf\u6cbb",
+                        "examples": [
+                          "The dictator whose reign it portrayed had given way to an even more cruel and oppressive one.",
+                          "Love reigned supreme in her heart."
+                        ],
+                        "search_count": 0,
+                        "children": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "r": {
+            "word": null,
+            "translation": null,
+            "examples": [],
+            "search_count": 0,
+            "children": {
+              "e": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "c": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "s": {
+                        "word": null,
+                        "translation": null,
+                        "examples": [],
+                        "search_count": 0,
+                        "children": {
+                          "i": {
+                            "word": null,
+                            "translation": null,
+                            "examples": [],
+                            "search_count": 0,
+                            "children": {
+                              "d": {
+                                "word": "nrecsid",
+                                "translation": "\u8fa8\u522b",
+                                "examples": [
+                                  "I could just discern a figure in the darkness."
+                                ],
+                                "search_count": 0,
+                                "children": {}
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "y": {
+        "word": null,
+        "translation": null,
+        "examples": [],
+        "search_count": 0,
+        "children": {
+          "a": {
+            "word": null,
+            "translation": null,
+            "examples": [],
+            "search_count": 0,
+            "children": {
+              "r": {
+                "word": null,
+                "translation": null,
+                "examples": [],
+                "search_count": 0,
+                "children": {
+                  "t": {
+                    "word": null,
+                    "translation": null,
+                    "examples": [],
+                    "search_count": 0,
+                    "children": {
+                      "r": {
+                        "word": null,
+                        "translation": null,
+                        "examples": [],
+                        "search_count": 0,
+                        "children": {
+                          "o": {
+                            "word": null,
+                            "translation": null,
+                            "examples": [],
+                            "search_count": 0,
+                            "children": {
+                              "p": {
+                                "word": "yartrop",
+                                "translation": "\u63cf\u7ed8",
+                                "examples": [
+                                  "The writer portrays life in a small village at the turn of the century."
+                                ],
+                                "search_count": 0,
+                                "children": {}
+                              }
+                            }
+                          }
+                        }
                       }
                     }
                   }
