@@ -91,6 +91,11 @@ class Menu:
         for word in self.vocabulary.find_prefix_and_suffix(prefix, suffix):
             print(word)
 
+    def print_examples_with_word(self, word_list: list):
+        print("所有含有", word_list, "的例句：")
+        for example in self.vocabulary.find_examples_with_word(word_list):
+            print(example)
+
     def parse_command(self, command: str):
         # 处理命令
         # parse command
@@ -155,7 +160,14 @@ class Menu:
         elif command == "translate" or command == "t":
             self.print_words_with_translation()
         elif command == "example" or command == "e":
-            self.print_examples_with_word()
+            if len(args) == 0:
+                # 默认打印所有例句
+                self.print_examples_with_word([])
+            for word in args:
+                if not word.isalpha():
+                    print("输入的单词不合法！")
+                    return
+            self.print_examples_with_word(args)
         else:
             print("未知命令！")
 

@@ -166,6 +166,17 @@ class VocabularyTrie:
             words += self.get_words(child_node)
         return words
     
+    def get_examples(self, node: TrieNode = None):
+        if node is None:
+            node = self.prefix_trie.root
+        # 递归地获取所有例句
+        examples = []
+        if node.word is not None:
+            examples += node.examples
+        for child_node in node.children.values():
+            examples += self.get_examples(child_node)
+        return examples
+    
     def find_prefix_and_suffix(self, prefix: str, suffix: str):
         # 在前缀树和后缀树中查找前缀和后缀
         prefix_node = self.find_prefix(prefix)
@@ -175,4 +186,15 @@ class VocabularyTrie:
         # 颠倒后缀树中的单词
         suffix_words = [word[::-1] for word in suffix_words]
         return list(set(prefix_words) & set(suffix_words))
- 
+    
+    def find_examples_with_word(self, word_list: list):
+        examples = self.get_examples()
+        if len(word_list) == 0:
+            return examples
+        result = set()
+        for example in examples:
+            for word in word_list:
+                if word in example:
+                    result.add(example)
+
+        return result
